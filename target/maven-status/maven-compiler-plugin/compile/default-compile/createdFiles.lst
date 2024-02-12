@@ -1,0 +1,5 @@
+com\mycompany\inheritance_example_ui\BaseKrediManager.class
+com\mycompany\inheritance_example_ui\OgretmenKrediManager.class
+com\mycompany\inheritance_example_ui\TarimKrediManager.class
+com\mycompany\inheritance_example_ui\KrediUI.class
+com\mycompany\inheritance_example_ui\Inheritance_example_ui.class
